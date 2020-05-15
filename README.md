@@ -16,4 +16,4 @@ The next step is to use [Spectator View](https://docs.microsoft.com/en-us/window
 (After all, I only have access to one HoloLens :laughing:)
 
 **tips**
-using [GitHub for Unity](https://github.com/github-for-unity) is much easier than using git alone
+1. Using [GitHub for Unity](https://github.com/github-for-unity) is much easier than using git alone
