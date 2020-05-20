@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: eeda5d35b8a445b4a881a79b327f2750
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3c36359a3871e2d6ef688fb6da6a7f8f
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 36.7642, y: 197.58788, z: -198.22421}
+      lookAt: {x: 1.5762864, y: 122.66408, z: -85.411224}
+      up: {x: -0.15944223, y: 0.84455854, z: 0.5111742}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Corridor0501
+    100004: Corridor0502
+    100006: Elevator050101
+    100008: Elevator050102
+    100010: Elevator050201
+    100012: Elevator050202
+    100014: Room050202
+    100016: Room1502
+    100018: Room1503
+    100020: Room1504
+    100022: Room1507
+    100024: Room1508
+    100026: Room1509
+    100028: Room1510
+    100030: Room1511
+    100032: Room1512
+    100034: Room1513
+    100036: Room1515
+    100038: Room1516
+    100040: Room1517
+    100042: Room1518
+    100044: Room1519
+    100046: Room1521
+    100048: Room1522
+    100050: Room1523
+    100052: Room1524
+    100054: Room1525
+    100056: Room1526
+    100058: Room1527
+    100060: Room1529
+    100062: Room1530
+    100064: Room1531
+    100066: Room1533
+    100068: Room1534
+    100070: Room1535
+    100072: Room1536
+    100074: Room1537
+    100076: Room1538
+    100078: Room1539
+    100080: Room1540
+    100082: Room1541
+    100084: Room1542
+    100086: Room1543
+    100088: Room1545
+    100090: Room1546
+    100092: Room1547
+    100094: Room1548
+    100096: Room1550
+    100098: Room1552
+    100100: Room1553
+    100102: Room1554
+    100104: Room1555
+    100106: Room1556
+    100108: Room1557
+    100110: Room1558
+    100112: Room1559
+    100114: Room1560
+    100116: Room1561
+    100118: Room1562
+    100120: Room1563
+    100122: Room1564
+    100124: Room1565
+    100126: Room1566
+    100128: Room1567
+    100130: Room1568
+    100132: Room1569
+    100134: Room1570
+    100136: Room1571
+    100138: Room1572
+    100140: Room1573
+    100142: Room1575
+    100144: Room1577
+    100146: Room2501
+    100148: Room2502
+    100150: Room2503
+    100152: Room2504
+    100154: Room2505
+    100156: Room2506
+    100158: Room2507
+    100160: Room2509
+    100162: Room2510
+    100164: Room2511
+    100166: Room2513
+    100168: Room2514
+    100170: Room2515
+    100172: Room2516
+    100174: Room2517
+    100176: Room2518
+    100178: Room2519
+    100180: Room2520
+    100182: Room2521
+    100184: Room2522
+    100186: Room2523
+    100188: Room2524
+    100190: Room2527
+    100192: Room2528
+    100194: Room2529
+    100196: Room2530
+    100198: Room2531
+    100200: Room2532
+    100202: Room2534
+    100204: Room2535
+    100206: Room2537
+    100208: Room2538
+    100210: Room2539
+    100212: Room2540
+    100214: Room2541
+    100216: Room2543
+    100218: Room2544
+    100220: Room2547
+    100222: Room2548
+    100224: Room2550
+    100226: Room2553
+    100228: Room2554
+    100230: Room2555
+    100232: Room2557
+    100234: Room2558
+    100236: Room2559
+    100238: Room2560
+    100240: Room2561
+    100242: Room2562
+    100244: Room2563
+    100246: Room2564
+    100248: Room2565
+    100250: Room2566
+    100252: Room2567
+    100254: Room2569
+    100256: Room2571
+    100258: Room2572
+    100260: Room2573
+    100262: Room2574
+    100264: Room2576
+    100266: Room2577
+    100268: Room2579
+    100270: Stair0501
+    100272: Stair050102
+    100274: Stair050103
+    100276: Stair050201
+    100278: Stair050203
+    100280: unknown
+    400000: //RootNode
+    400002: Corridor0501
+    400004: Corridor0502
+    400006: Elevator050101
+    400008: Elevator050102
+    400010: Elevator050201
+    400012: Elevator050202
+    400014: Room050202
+    400016: Room1502
+    400018: Room1503
+    400020: Room1504
+    400022: Room1507
+    400024: Room1508
+    400026: Room1509
+    400028: Room1510
+    400030: Room1511
+    400032: Room1512
+    400034: Room1513
+    400036: Room1515
+    400038: Room1516
+    400040: Room1517
+    400042: Room1518
+    400044: Room1519
+    400046: Room1521
+    400048: Room1522
+    400050: Room1523
+    400052: Room1524
+    400054: Room1525
+    400056: Room1526
+    400058: Room1527
+    400060: Room1529
+    400062: Room1530
+    400064: Room1531
+    400066: Room1533
+    400068: Room1534
+    400070: Room1535
+    400072: Room1536
+    400074: Room1537
+    400076: Room1538
+    400078: Room1539
+    400080: Room1540
+    400082: Room1541
+    400084: Room1542
+    400086: Room1543
+    400088: Room1545
+    400090: Room1546
+    400092: Room1547
+    400094: Room1548
+    400096: Room1550
+    400098: Room1552
+    400100: Room1553
+    400102: Room1554
+    400104: Room1555
+    400106: Room1556
+    400108: Room1557
+    400110: Room1558
+    400112: Room1559
+    400114: Room1560
+    400116: Room1561
+    400118: Room1562
+    400120: Room1563
+    400122: Room1564
+    400124: Room1565
+    400126: Room1566
+    400128: Room1567
+    400130: Room1568
+    400132: Room1569
+    400134: Room1570
+    400136: Room1571
+    400138: Room1572
+    400140: Room1573
+    400142: Room1575
+    400144: Room1577
+    400146: Room2501
+    400148: Room2502
+    400150: Room2503
+    400152: Room2504
+    400154: Room2505
+    400156: Room2506
+    400158: Room2507
+    400160: Room2509
+    400162: Room2510
+    400164: Room2511
+    400166: Room2513
+    400168: Room2514
+    400170: Room2515
+    400172: Room2516
+    400174: Room2517
+    400176: Room2518
+    400178: Room2519
+    400180: Room2520
+    400182: Room2521
+    400184: Room2522
+    400186: Room2523
+    400188: Room2524
+    400190: Room2527
+    400192: Room2528
+    400194: Room2529
+    400196: Room2530
+    400198: Room2531
+    400200: Room2532
+    400202: Room2534
+    400204: Room2535
+    400206: Room2537
+    400208: Room2538
+    400210: Room2539
+    400212: Room2540
+    400214: Room2541
+    400216: Room2543
+    400218: Room2544
+    400220: Room2547
+    400222: Room2548
+    400224: Room2550
+    400226: Room2553
+    400228: Room2554
+    400230: Room2555
+    400232: Room2557
+    400234: Room2558
+    400236: Room2559
+    400238: Room2560
+    400240: Room2561
+    400242: Room2562
+    400244: Room2563
+    400246: Room2564
+    400248: Room2565
+    400250: Room2566
+    400252: Room2567
+    400254: Room2569
+    400256: Room2571
+    400258: Room2572
+    400260: Room2573
+    400262: Room2574
+    400264: Room2576
+    400266: Room2577
+    400268: Room2579
+    400270: Stair0501
+    400272: Stair050102
+    400274: Stair050103
+    400276: Stair050201
+    400278: Stair050203
+    400280: unknown
+    2100000: _defaultMat
+    2300000: //RootNode
+    2300002: Corridor0501
+    2300004: Corridor0502
+    2300006: Elevator050101
+    2300008: Elevator050102
+    2300010: Elevator050201
+    2300012: Elevator050202
+    2300014: Room050202
+    2300016: Room1502
+    2300018: Room1503
+    2300020: Room1504
+    2300022: Room1507
+    2300024: Room1508
+    2300026: Room1509
+    2300028: Room1510
+    2300030: Room1511
+    2300032: Room1512
+    2300034: Room1513
+    2300036: Room1515
+    2300038: Room1516
+    2300040: Room1517
+    2300042: Room1518
+    2300044: Room1519
+    2300046: Room1521
+    2300048: Room1522
+    2300050: Room1523
+    2300052: Room1524
+    2300054: Room1525
+    2300056: Room1526
+    2300058: Room1527
+    2300060: Room1529
+    2300062: Room1530
+    2300064: Room1531
+    2300066: Room1533
+    2300068: Room1534
+    2300070: Room1535
+    2300072: Room1536
+    2300074: Room1537
+    2300076: Room1538
+    2300078: Room1539
+    2300080: Room1540
+    2300082: Room1541
+    2300084: Room1542
+    2300086: Room1543
+    2300088: Room1545
+    2300090: Room1546
+    2300092: Room1547
+    2300094: Room1548
+    2300096: Room1550
+    2300098: Room1552
+    2300100: Room1553
+    2300102: Room1554
+    2300104: Room1555
+    2300106: Room1556
+    2300108: Room1557
+    2300110: Room1558
+    2300112: Room1559
+    2300114: Room1560
+    2300116: Room1561
+    2300118: Room1562
+    2300120: Room1563
+    2300122: Room1564
+    2300124: Room1565
+    2300126: Room1566
+    2300128: Room1567
+    2300130: Room1568
+    2300132: Room1569
+    2300134: Room1570
+    2300136: Room1571
+    2300138: Room1572
+    2300140: Room1573
+    2300142: Room1575
+    2300144: Room1577
+    2300146: Room2501
+    2300148: Room2502
+    2300150: Room2503
+    2300152: Room2504
+    2300154: Room2505
+    2300156: Room2506
+    2300158: Room2507
+    2300160: Room2509
+    2300162: Room2510
+    2300164: Room2511
+    2300166: Room2513
+    2300168: Room2514
+    2300170: Room2515
+    2300172: Room2516
+    2300174: Room2517
+    2300176: Room2518
+    2300178: Room2519
+    2300180: Room2520
+    2300182: Room2521
+    2300184: Room2522
+    2300186: Room2523
+    2300188: Room2524
+    2300190: Room2527
+    2300192: Room2528
+    2300194: Room2529
+    2300196: Room2530
+    2300198: Room2531
+    2300200: Room2532
+    2300202: Room2534
+    2300204: Room2535
+    2300206: Room2537
+    2300208: Room2538
+    2300210: Room2539
+    2300212: Room2540
+    2300214: Room2541
+    2300216: Room2543
+    2300218: Room2544
+    2300220: Room2547
+    2300222: Room2548
+    2300224: Room2550
+    2300226: Room2553
+    2300228: Room2554
+    2300230: Room2555
+    2300232: Room2557
+    2300234: Room2558
+    2300236: Room2559
+    2300238: Room2560
+    2300240: Room2561
+    2300242: Room2562
+    2300244: Room2563
+    2300246: Room2564
+    2300248: Room2565
+    2300250: Room2566
+    2300252: Room2567
+    2300254: Room2569
+    2300256: Room2571
+    2300258: Room2572
+    2300260: Room2573
+    2300262: Room2574
+    2300264: Room2576
+    2300266: Room2577
+    2300268: Room2579
+    2300270: Stair0501
+    2300272: Stair050102
+    2300274: Stair050103
+    2300276: Stair050201
+    2300278: Stair050203
+    2300280: unknown
+    3300000: //RootNode
+    3300002: Corridor0501
+    3300004: Corridor0502
+    3300006: Elevator050101
+    3300008: Elevator050102
+    3300010: Elevator050201
+    3300012: Elevator050202
+    3300014: Room050202
+    3300016: Room1502
+    3300018: Room1503
+    3300020: Room1504
+    3300022: Room1507
+    3300024: Room1508
+    3300026: Room1509
+    3300028: Room1510
+    3300030: Room1511
+    3300032: Room1512
+    3300034: Room1513
+    3300036: Room1515
+    3300038: Room1516
+    3300040: Room1517
+    3300042: Room1518
+    3300044: Room1519
+    3300046: Room1521
+    3300048: Room1522
+    3300050: Room1523
+    3300052: Room1524
+    3300054: Room1525
+    3300056: Room1526
+    3300058: Room1527
+    3300060: Room1529
+    3300062: Room1530
+    3300064: Room1531
+    3300066: Room1533
+    3300068: Room1534
+    3300070: Room1535
+    3300072: Room1536
+    3300074: Room1537
+    3300076: Room1538
+    3300078: Room1539
+    3300080: Room1540
+    3300082: Room1541
+    3300084: Room1542
+    3300086: Room1543
+    3300088: Room1545
+    3300090: Room1546
+    3300092: Room1547
+    3300094: Room1548
+    3300096: Room1550
+    3300098: Room1552
+    3300100: Room1553
+    3300102: Room1554
+    3300104: Room1555
+    3300106: Room1556
+    3300108: Room1557
+    3300110: Room1558
+    3300112: Room1559
+    3300114: Room1560
+    3300116: Room1561
+    3300118: Room1562
+    3300120: Room1563
+    3300122: Room1564
+    3300124: Room1565
+    3300126: Room1566
+    3300128: Room1567
+    3300130: Room1568
+    3300132: Room1569
+    3300134: Room1570
+    3300136: Room1571
+    3300138: Room1572
+    3300140: Room1573
+    3300142: Room1575
+    3300144: Room1577
+    3300146: Room2501
+    3300148: Room2502
+    3300150: Room2503
+    3300152: Room2504
+    3300154: Room2505
+    3300156: Room2506
+    3300158: Room2507
+    3300160: Room2509
+    3300162: Room2510
+    3300164: Room2511
+    3300166: Room2513
+    3300168: Room2514
+    3300170: Room2515
+    3300172: Room2516
+    3300174: Room2517
+    3300176: Room2518
+    3300178: Room2519
+    3300180: Room2520
+    3300182: Room2521
+    3300184: Room2522
+    3300186: Room2523
+    3300188: Room2524
+    3300190: Room2527
+    3300192: Room2528
+    3300194: Room2529
+    3300196: Room2530
+    3300198: Room2531
+    3300200: Room2532
+    3300202: Room2534
+    3300204: Room2535
+    3300206: Room2537
+    3300208: Room2538
+    3300210: Room2539
+    3300212: Room2540
+    3300214: Room2541
+    3300216: Room2543
+    3300218: Room2544
+    3300220: Room2547
+    3300222: Room2548
+    3300224: Room2550
+    3300226: Room2553
+    3300228: Room2554
+    3300230: Room2555
+    3300232: Room2557
+    3300234: Room2558
+    3300236: Room2559
+    3300238: Room2560
+    3300240: Room2561
+    3300242: Room2562
+    3300244: Room2563
+    3300246: Room2564
+    3300248: Room2565
+    3300250: Room2566
+    3300252: Room2567
+    3300254: Room2569
+    3300256: Room2571
+    3300258: Room2572
+    3300260: Room2573
+    3300262: Room2574
+    3300264: Room2576
+    3300266: Room2577
+    3300268: Room2579
+    3300270: Stair0501
+    3300272: Stair050102
+    3300274: Stair050103
+    3300276: Stair050201
+    3300278: Stair050203
+    3300280: unknown
+    4300000: Mesh BuildingModel05
+    4300002: Mesh Room1572
+    4300004: Mesh Room1577
+    4300006: Mesh Room1570
+    4300008: Mesh Room1568
+    4300010: Mesh Room1566
+    4300012: Mesh Room1564
+    4300014: Mesh Room1562
+    4300016: Mesh Room1560
+    4300018: Mesh Room1558
+    4300020: Mesh Room1556
+    4300022: Mesh Room1554
+    4300024: Mesh Room1552
+    4300026: Mesh Room1550
+    4300028: Mesh Room1553
+    4300030: Mesh unknown
+    4300032: Mesh Room1547
+    4300034: Mesh Room1545
+    4300036: Mesh Room1543
+    4300038: Mesh Room1541
+    4300040: Mesh Room1539
+    4300042: Mesh Room1537
+    4300044: Mesh Room1535
+    4300046: Mesh Room1533
+    4300048: Mesh Room1531
+    4300050: Mesh Room1525
+    4300052: Mesh Room1524
+    4300054: Mesh Room1519
+    4300056: Mesh Room1517
+    4300058: Mesh Room1515
+    4300060: Mesh Room1513
+    4300062: Mesh Room1511
+    4300064: Mesh Room1509
+    4300066: Mesh Room1507
+    4300068: Mesh Room1503
+    4300070: Mesh Room1502
+    4300072: Mesh Room1504
+    4300074: Mesh Room1508
+    4300076: Mesh Room1510
+    4300078: Mesh Room1512
+    4300080: Mesh Room1516
+    4300082: Mesh Room1518
+    4300084: Mesh Room1522
+    4300086: Mesh Room1523
+    4300088: Mesh Room1521
+    4300090: Mesh Room1530
+    4300092: Mesh Room1534
+    4300094: Mesh Room1536
+    4300096: Mesh Room1538
+    4300098: Mesh Room1540
+    4300100: Mesh Room1542
+    4300102: Mesh Room1546
+    4300104: Mesh Room1548
+    4300106: Mesh Room1526
+    4300108: Mesh Room1529
+    4300110: Mesh Room1527
+    4300112: Mesh Room1561
+    4300114: Mesh Room1563
+    4300116: Mesh Room1565
+    4300118: Mesh Room1567
+    4300120: Mesh Room1569
+    4300122: Mesh Room1571
+    4300124: Mesh Room1573
+    4300126: Mesh Room1575
+    4300128: Mesh Stair0501
+    4300130: Mesh Room1559
+    4300132: Mesh Room1557
+    4300134: Mesh Room1555
+    4300136: Mesh Corridor0501
+    4300138: Mesh Elevator050101
+    4300140: Mesh Stair050102
+    4300142: Mesh Stair050103
+    4300144: Mesh Elevator050102
+    4300146: Mesh Room2576
+    4300148: Mesh Room2574
+    4300150: Mesh Room2572
+    4300152: Mesh Room2566
+    4300154: Mesh Room2577
+    4300156: Mesh Room2564
+    4300158: Mesh Room2562
+    4300160: Mesh Room2560
+    4300162: Mesh Room2558
+    4300164: Mesh Room2554
+    4300166: Mesh Room2550
+    4300168: Mesh Room2553
+    4300170: Mesh Room2547
+    4300172: Mesh Room2543
+    4300174: Mesh Room2541
+    4300176: Mesh Room2539
+    4300178: Mesh Room2537
+    4300180: Mesh Room2535
+    4300182: Mesh Room2531
+    4300184: Mesh Room2524
+    4300186: Mesh Room2520
+    4300188: Mesh Room2519
+    4300190: Mesh Room2517
+    4300192: Mesh Room2515
+    4300194: Mesh Room2513
+    4300196: Mesh Room2511
+    4300198: Mesh Room2509
+    4300200: Mesh Room2507
+    4300202: Mesh Room2505
+    4300204: Mesh Room2503
+    4300206: Mesh Room2501
+    4300208: Mesh Room2518
+    4300210: Mesh Room2516
+    4300212: Mesh Room2514
+    4300214: Mesh Room2510
+    4300216: Mesh Room2502
+    4300218: Mesh Room2504
+    4300220: Mesh Room2506
+    4300222: Mesh Room2522
+    4300224: Mesh Room2523
+    4300226: Mesh Room2521
+    4300228: Mesh Room2530
+    4300230: Mesh Room2532
+    4300232: Mesh Room2534
+    4300234: Mesh Room2544
+    4300236: Mesh Room2548
+    4300238: Mesh Room2528
+    4300240: Mesh Room2527
+    4300242: Mesh Room2529
+    4300244: Mesh Room2561
+    4300246: Mesh Room2563
+    4300248: Mesh Room2565
+    4300250: Mesh Room2567
+    4300252: Mesh Room2569
+    4300254: Mesh Room2571
+    4300256: Mesh Room2573
+    4300258: Mesh Room2579
+    4300260: Mesh Stair050201
+    4300262: Mesh Room2559
+    4300264: Mesh Room2557
+    4300266: Mesh Room2555
+    4300268: Mesh Room050202
+    4300270: Mesh Elevator050201
+    4300272: Mesh Room2538
+    4300274: Mesh Room2540
+    4300276: Mesh Elevator050202
+    4300278: Mesh Stair050203
+    4300280: Mesh Corridor0502
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
