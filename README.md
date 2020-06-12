@@ -16,6 +16,7 @@ The next step is to use [Spectator View](https://docs.microsoft.com/en-us/window
 (After all, I only have access to one HoloLens :laughing:)
 
 **update 2020.6.12**
+
 using [AzureSpatialAnchors](https://github.com/Azure/azure-spatial-anchors-samples) to build a [wayfinding](https://docs.microsoft.com/en-us/azure/spatial-anchors/concepts/anchor-relationships-way-finding#examples) experience. Realizing this function can make the next-step work much easier.
 Now I have used [this tutorial](https://docs.microsoft.com/en-us/azure/spatial-anchors/tutorials/tutorial-new-unity-hololens-app?tabs=UnityPackage#putting-everything-together) to create a cloud spatial anchor. Notice: "AccountDomain" must be added to get it work. Otherwise it's not validated.
 
